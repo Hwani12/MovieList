@@ -23,7 +23,7 @@ export default {
 
 <style>
   body{
-    background-color: #ffedd6;
+    background-color: #f1f1f1;
   }
   ol, li{
     font-size: 30px;
@@ -38,12 +38,13 @@ export default {
     color: blue;
   }
   .movie_box{
+
     background-color: #fff;
-    border: 3px solid blueviolet;
+    /* border: 3px solid blueviolet; */
     border-radius: 50px;
     width: 400px;
     margin: 40px auto;
-    padding: 0px 20px;
+    padding: 20px 40px;
     line-height: 45px;
   }
 </style>
